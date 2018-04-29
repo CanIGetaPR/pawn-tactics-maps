@@ -1,7 +1,0 @@
-stages:
-  - deploy
-
-deploy:
-  stage: deploy
-  script:
-    - bash ./deploy_maps
