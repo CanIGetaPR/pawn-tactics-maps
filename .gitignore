@@ -1,0 +1,31 @@
+# Build files
+dist
+jar
+build
+build-debug
+*.class
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+# Legacy .svn files
+*.svn*
+
+# Log files
+*.log
+*.lck
+/nbproject/private/
+
+# DS_STORE
+*.DS_STORE
+
+# NetBeans
+nbproject/
+manifest.mf
+nbbuild.xml
+
+# vim swap files
+*.swp
