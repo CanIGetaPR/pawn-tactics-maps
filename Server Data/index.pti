@@ -10,7 +10,7 @@
 10=Brisk=[TDM]Brisk.ptm
 11=Confrontation=[TDM]Confrontation.ptm
 12=Death Funnel=[TDM]Death Funnel.ptm
-13=Godmin Arena=[TDM]Godmin Arena.ptm
+13=Divine Arena (1v1)=[1v1]Divine Arena.ptm
 14=Gorge=[TDM]Gorge.ptm
 15=Ground Plan=[TDM]Ground Plan.ptm
 16=Harambe=[TDM]Harambe.ptm
@@ -56,8 +56,9 @@
 56=Gallant=[TKH]Gallant.ptm
 57=Gauntlet=[TKH]Gauntlet.ptm
 58=Harpoon Crossfire=[TKH]Harpoon Crossfire.ptm
-59=Split Lines=[TKH]Split lines (SRV).ptm
-60=Stay Alive=[TKH]Stay Alive (SRV).ptm
+59=Split Lines (SRV)=[TKH]Split Lines (SRV).ptm
+60=Stay Alive (SRV)=[TKH]Stay Alive (SRV).ptm
 61=United=[TKH]United.ptm
 62=Clockwork=[CTF]Clockwork.ptm
 63=MoMo's Trade Port=[CTF]MoMo's Trade Port.ptm
+64=The Maze=[FFA]The Maze.ptm
