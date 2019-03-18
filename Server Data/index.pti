@@ -1,64 +1,61 @@
 1=Bloodbath=[FFA]Bloodbath.ptm
-2=Carnage=[FFA]Carnage.ptm
-3=Jail Break=[FFA]Jail Break.ptm
-4=The Pyramid=[FFA]The Pyramid.ptm
-5=Torn Away=[FFA]Torn Away.ptm
-6=Ceyhan (1v1)=[1v1]Ceyhan.ptm
-7=Compact Bound (1v1)=[1v1]Compact Bound.ptm
-8=Freefight (1v1)=[1v1]Freefight.ptm
-9=Hillside (1v1)=[1v1]Hillside.ptm
-10=Brisk=[TDM]Brisk.ptm
-11=Confrontation=[TDM]Confrontation.ptm
-12=Death Funnel=[TDM]Death Funnel.ptm
-13=Divine Arena (1v1)=[1v1]Divine Arena.ptm
-14=Gorge=[TDM]Gorge.ptm
-15=Ground Plan=[TDM]Ground Plan.ptm
-16=Harambe=[TDM]Harambe.ptm
-17=Hostile Grounds=[TDM]Hostile Grounds.ptm
-18=Penitentiary=[TDM]Penitentiary.ptm
-19=Target Practice=[TDM]Target Practice.ptm
-20=The Citadel=[TDM]The Citadel.ptm
-21=Ventrilico=[TDM]Ventrilico.ptm
-22=Broken Reality=[ASS]Broken Reality.ptm
-23=Conquest=[ASS]Conquest.ptm
-24=Fragility=[ASS]Fragility.ptm
-25=Sever=[ASS]Sever.ptm
-26=The Keep=[ASS]The Keep.ptm
-27=Trenches=[ASS]Trenches.ptm
-28=Bloodshed=[CTF]Blood Shed.ptm
-29=Clash=[CTF]Clash.ptm
-30=Cohort (Reverse)=[CTF]Cohort (Reverse).ptm
-31=Death Trap=[CTF]Death Trap.ptm
-32=Excavations=[CTF]Excavations.ptm
+2=Ceyhan (1v1)=[1v1]Ceyhan.ptm
+3=Compact Bound (1v1)=[1v1]Compact Bound.ptm
+4=Death Sentence=[FFA]Death Sentence.ptm
+5=Freefight (1v1)=[1v1]Freefight.ptm
+6=Grasslands=[FFA]Grasslands.ptm
+7=Grimsby=[FFA]Grimsby.ptm
+8=Jail Break=[FFA]Jail Break.ptm
+9=Parking Lot (1v1)=[1v1]Parking Lot.ptm
+10=The Pyramid=[FFA]The Pyramid.ptm
+11=Brisk=[TDM]Brisk.ptm
+12=Confrontation=[TDM]Confrontation.ptm
+13=Death Funnel=[TDM]Death Funnel.ptm
+14=Firefight=[TDM]Firefight.ptm
+15=Gorge=[TDM]Gorge.pt
+16=Ground Plan=[TDM]Ground Plan.ptm
+17=Harambe=[TDM]Harambe.ptm
+18=NickIt=[TDM]NickIt.ptm
+19=The Citadel=[TDM]The Citadel.ptm
+20=Ventrilico=[TDM]Ventrilico.ptm
+21=Conquest=[ASS]Conquest.ptm
+22=Fragility=[ASS]Fragility.ptm
+23=Sever=[ASS]Sever.ptm
+24=The Keep=[ASS]The Keep.ptm
+25=Trenches=[ASS]Trenches.ptm
+26=Bloodshed=[CTF]Blood Shed.ptm
+27=Clockwork=[CTF]Clockwork.ptm
+28=Cohort (Reverse)=[CTF]Cohort (Reverse).ptm
+29=Death Trap=[CTF]Death Trap.ptm
+30=Dirty Tactics=[CTF]Dirty Tactics.ptm
+31=Excavations=[CTF]Excavations.ptm
+32=Fort (Reverse)=[CTF]Fort (Reverse).ptm
 33=Hideaway=[CTF]Hideaway.ptm
 34=Inclination (Reverse)=[CTF]Inclination (Reverse).ptm
-35=Layers=[CTF]Layers.ptm
-36=Locked Inside=[CTF]Locked Inside.ptm
-37=Organized Chaos (Reverse)=[CTF]Organized Chaos (Reverse).ptm
-38=Organized Chaos=[CTF]Organized Chaos.ptm
-39=Picnic=[CTF]Picnic.ptm
-40=Propaganda=[CTF]Propaganda.ptm
-41=Rivalry=[CTF]Rivalry.ptm
-42=Strobe=[CTF]Strobe.ptm
-43=Suburban Course=[CTF]Suburban Course.ptm
-44=Tactical Warfare=[CTF]Tactical Warfare.ptm
-45=Talk To Frank=[CTF]Talk To Frank.ptm
-46=Tey (Reverse)=[CTF]Tey (Reverse).ptm
-47=Thunderbolt=[CTF]Thunderbolt.ptm
-48=Circumvent=[FKH]Circumvent.ptm
-49=Collateral=[FKH]Collateral.ptm
-50=Dual Throne=[FKH]Dual Throne.ptm
-51=The Pit=[FKH]The Pit.ptm
-52=The Pyramid=[FKH]The Pyramid.ptm
-53=Auto Show (SRV)=[TKH]Auto Show (SRV).ptm
-54=Condemned=[TKH]Condemned.ptm
-55=Devastation=[TKH]Devastation.ptm
-56=Gallant=[TKH]Gallant.ptm
-57=Gauntlet=[TKH]Gauntlet.ptm
-58=Harpoon Crossfire=[TKH]Harpoon Crossfire.ptm
-59=Split Lines (SRV)=[TKH]Split Lines (SRV).ptm
-60=Stay Alive (SRV)=[TKH]Stay Alive (SRV).ptm
-61=United=[TKH]United.ptm
-62=Clockwork=[CTF]Clockwork.ptm
-63=MoMo Harbor=[CTF]MoMo Harbor.ptm
-64=The Maze=[FFA]The Maze.ptm
+35=Itsamap=[CTF]Itsamap.ptm
+36=Layers=[CTF]Layers.ptm
+37=Locked Inside=[CTF]Locked Inside.ptm
+38=Marshlands=[CTF]Marshlands.ptm
+39=MoMo Land (Reverse)=[CTF]MoMo Land (Reverse).ptm
+40=Organized Chaos=[CTF]Organized Chaos.ptm
+41=Parting Ways (Reverse)=[CTF]Parting Ways (Reverse).ptm
+42=Picnic=[CTF]Picnic.ptm
+43=Propaganda=[CTF]Propaganda.ptm
+44=Rivalry=[CTF]Rivalry.ptm
+45=Strobe=[CTF]Strobe.ptm
+46=Suburban Course=[CTF]Suburban Course.ptm
+47=Tactical Warfare=[CTF]Tactical Warfare.ptm
+48=Talk To Frank=[CTF]Talk To Frank.ptm
+49=Thunderbolt=[CTF]Thunderbolt.ptm
+50=Circumvent=[FKH]Circumvent.ptm
+51=Center Conflict=[FKH]Center Conflict.ptm
+52=Survival (SRV)=[FKH]Survival (SRV).ptm
+53=The Pit=[FKH]The Pit.ptm
+54=The Pyramid=[FKH]The Pyramid.ptm
+55=Auto Show (SRV)=[TKH]Auto Show (SRV).ptm
+56=Condemned=[TKH]Condemned.ptm
+57=Devastation=[TKH]Devastation.ptm
+58=Equidistant=[TKH]Equidistant.ptm
+59=Gauntlet=[TKH]Gauntlet.ptm
+60=United=[TKH]United.ptm
+61=Trajectory=[TDM]Trajectory.ptm
