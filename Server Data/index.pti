@@ -1,60 +1,138 @@
 1=Bloodbath=[FFA]Bloodbath.ptm
-2=Ceyhan (1v1)=[1v1]Ceyhan.ptm
-3=Compact Bound (1v1)=[1v1]Compact Bound.ptm
-4=Death Sentence=[FFA]Death Sentence.ptm
-5=Freefight (1v1)=[1v1]Freefight.ptm
-6=Grasslands=[FFA]Grasslands.ptm
-7=Grimsby=[FFA]Grimsby.ptm
+2=Carnage=[FFA]Carnage.ptm
+3=Death Sentence=[FFA]Death Sentence.ptm
+4=Elevate=[FFA]Elevate.ptm
+5=Grasslands=[FFA]Grasslands.ptm
+6=Grimsby=[FFA]Grimsby.ptm
+7=Islands=[FFA]Islands.ptm
 8=Jail Break=[FFA]Jail Break.ptm
-9=Parking Lot (1v1)=[1v1]Parking Lot.ptm
+9=The Maze=[FFA]The Maze.ptm
 10=The Pyramid=[FFA]The Pyramid.ptm
-11=Brisk=[TDM]Brisk.ptm
-13=Death Funnel=[TDM]Death Funnel.ptm
-14=Firefight=[TDM]Firefight.ptm
-15=Gorge=[TDM]Gorge.pt
-16=Ground Plan=[TDM]Ground Plan.ptm
-19=The Citadel=[TDM]The Citadel.ptm
-20=Ventrilico=[TDM]Ventrilico.ptm
-21=Conquest=[ASS]Conquest.ptm
-22=Fragility=[ASS]Fragility.ptm
-23=Sever=[ASS]Sever.ptm
-24=The Keep=[ASS]The Keep.ptm
-25=Trenches=[ASS]Trenches.ptm
-26=Bloodshed=[CTF]Blood Shed.ptm
-27=Clockwork=[CTF]Clockwork.ptm
-28=Cohort (Reverse)=[CTF]Cohort (Reverse).ptm
-29=Death Trap=[CTF]Death Trap.ptm
-30=Dirty Tactics=[CTF]Dirty Tactics.ptm
-31=Excavations=[CTF]Excavations.ptm
-33=Hideaway=[CTF]Hideaway.ptm
-34=Inclination (Reverse)=[CTF]Inclination (Reverse).ptm
-35=Itsamap=[CTF]Itsamap.ptm
-36=Layers=[CTF]Layers.ptm
-37=Locked Inside=[CTF]Locked Inside.ptm
-39=MoMoland (Reverse)=[CTF]MoMoland (Reverse).ptm
-40=Organized Chaos=[CTF]Organized Chaos.ptm
-41=Parting Ways (Reverse)=[CTF]Parting Ways (Reverse).ptm
-42=Picnic=[CTF]Picnic.ptm
-43=Propaganda=[CTF]Propaganda.ptm
-44=Rivalry=[CTF]Rivalry.ptm
-45=Strobe=[CTF]Strobe.ptm
-46=Suburban Course=[CTF]Suburban Course.ptm
-47=Tactical Warfare=[CTF]Tactical Warfare.ptm
-49=Thunderbolt=[CTF]Thunderbolt.ptm
-50=Circumvent=[FKH]Circumvent.ptm
-51=Center Conflict=[FKH]Center Conflict.ptm
-52=Survival (SRV)=[FKH]Survival (SRV).ptm
-53=The Pit=[FKH]The Pit.ptm
-54=The Pyramid=[FKH]The Pyramid.ptm
-55=Auto Show (SRV)=[TKH]Auto Show (SRV).ptm
-56=Condemned=[TKH]Condemned.ptm
-57=Devastation=[TKH]Devastation.ptm
-58=Equidistant=[TKH]Equidistant.ptm
-59=Gauntlet=[TKH]Gauntlet.ptm
-60=United=[TKH]United.ptm
-61=Landslide=[TDM]Landslide.ptm
-62=Parallel=[TDM]Parallel.ptm
-63=Blitz=[CTF]Blitz.ptm
-64=Brotherhood=[CTF]Brotherhood.ptm
-65=MoMo Harbor=[CTF]MoMo Harbor.ptm
-66=The Kron=[CTF]The Kron.ptm
+11=Torn Away=[FFA]Torn Away.ptm
+10000=Ceyhan=[1v1]Ceyhan.ptm
+10001=Compact Bound=[1v1]Compact Bound.ptm
+10002=Divine Arena=[1v1]Divine Arena.ptm
+10003=Freefight=[1v1]Freefight.ptm
+10004=Hillside=[1v1]Hillside.ptm
+10005=Mono y Mono=[1v1]Mono y Mono.ptm
+10006=Parking Lot=[1v1]Parking Lot.ptm
+20000=Arcade Run=[TDM]Arcade Run.ptm
+20001=Binomial=[TDM]Binomial.ptm
+20002=Brisk=[TDM]Brisk.ptm
+20003=Confrontation=[TDM]Confrontation.ptm
+20004=Dead Cross=[TDM]Dead Cross.ptm
+20005=Death Funnel=[TDM]Death Funnel.ptm
+20006=Earthbound=[TDM]Earthbound.ptm
+20007=Firefight=[TDM]Firefight.ptm
+20008=Galiath=[TDM]Galiath.ptm
+20009=Gorge=[TDM]Gorge.ptm
+20010=Ground Plan=[TDM]Ground Plan.ptm
+20011=Harambe=[TDM]Harambe.ptm
+20012=Hostile Grounds=[TDM]Hostile Grounds.ptm
+20013=Jumble=[TDM]Jumble.ptm
+20014=King of the Hill=[TDM]King of the Hill.ptm
+20015=Landslide=[TDM]Landslide.ptm
+20016=NickIt=[TDM]NickIt.ptm
+20017=Oppression=[TDM]Oppression.ptm
+20018=Parallel=[TDM]Parallel.ptm
+20019=Penitentiary=[TDM]Penitentiary.ptm
+20020=Precinct=[TDM]Precinct.ptm
+20021=Rumble=[TDM]Rumble.ptm
+20022=Target Practice=[TDM]Target Practice.ptm
+20023=The Citadel=[TDM]The Citadel.ptm
+20024=Trajectory=[TDM]Trajectory.ptm
+20025=Turmoil=[TDM]Turmoil.ptm
+20026=Ventrilico=[TDM]Ventrilico.ptm
+20027=Zedumehcations=[TDM]Zedumehcations.ptm
+30000=Blitz=[CTF]Blitz.ptm
+30001=Bloodshed=[CTF]Bloodshed.ptm
+30002=Brotherhood=[CTF]Brotherhood.ptm
+30003=Clash=[CTF]Clash.ptm
+30004=Clockwork=[CTF]Clockwork.ptm
+30005=Death Trap=[CTF]Death Trap.ptm
+30006=Dirty Tactics=[CTF]Dirty Tactics.ptm
+30007=Entourage=[CTF]Entourage.ptm
+30008=Escort=[CTF]Escort.ptm
+30009=Excavations=[CTF]Excavations.ptm
+30010=Fatal River=[CTF]Fatal River.ptm
+30011=Hideaway=[CTF]Hideaway.ptm
+30012=Itsamap=[CTF]Itsamap.ptm
+30013=Layers=[CTF]Layers.ptm
+30014=Locked Inside=[CTF]Locked Inside.ptm
+30015=MoMo Harbor=[CTF]MoMo Harbor.ptm
+30016=Neighbors=[CTF]Neighbors.ptm
+30017=Organized Chaos=[CTF]Organized Chaos.ptm
+30018=Propaganda=[CTF]Propaganda.ptm
+30019=RePENT=[CTF]RePENT.ptm
+30020=Requiem=[CTF]Requiem.ptm
+30021=Riot Zone=[CTF]Riot Zone.ptm
+30022=Rivalry=[CTF]Rivalry.ptm
+30023=Separation=[CTF]Separation.ptm
+30024=Strobe=[CTF]Strobe.ptm
+30025=Suburban Course=[CTF]Suburban Course.ptm
+30026=Tactical Warfare=[CTF]Tactical Warfare.ptm
+30027=Talk to Frank=[CTF]Talk to Frank.ptm
+30028=The Kron=[CTF]The Kron.ptm
+30029=Transversal=[CTF]Transversal.ptm
+30030=Tri=[CTF]Tri.ptm
+30031=Verge=[CTF]Verge.ptm
+40000=Cohort (Reverse)=[ETF]Cohort (Reverse).ptm
+40001=Fort (Reverse)=[ETF]Fort (Reverse).ptm
+40002=Inclination (Reverse)=[ETF]Inclination (Reverse).ptm
+40003=Locked Inside (Reverse)=[ETF]Locked Inside (Reverse).ptm
+40004=Marshlands (Reverse)=[ETF]Marshlands (Reverse).ptm
+40005=MoMoland (Reverse)=[ETF]MoMoland (Reverse).ptm
+40006=Organized Chaos (Reverse)=[ETF]Organized Chaos (Reverse).ptm
+40007=Parting Ways (Reverse)=[ETF]Parting Ways (Reverse).ptm
+40008=Picnic (Reverse)=[ETF]Picnic (Reverse).ptm
+40009=Tey (Reverse)=[ETF]Tey (Reverse).ptm
+40010=Thunderbolt (Reverse)=[ETF]Thunderbolt (Reverse).ptm
+40011=Trance (Reverse)=[ETF]Trance (Reverse).ptm
+45000=Blank Expression=[FF]Blank Expression.ptm
+45001=Fissure=[FF]Fissure.ptm
+45002=Seek and Destroy=[FF]Seek and Destroy.ptm
+50000=Broken Reality=[ASS]Broken Reality.ptm
+50001=Conquest=[ASS]Conquest.ptm
+50002=Fallen City=[ASS]Fallen City.ptm
+50003=Fragility=[ASS]Fragility.ptm
+50004=Invasion Assault=[ASS]Invasion Assault.ptm
+50005=Last Days=[ASS]Last Days.ptm
+50006=Race Two the Finish=[ASS]Race Two the Finish.ptm
+50007=Release=[ASS]Release.ptm
+50008=Sever=[ASS]Sever.ptm
+50009=The Keep=[ASS]The Keep.ptm
+50010=Transcentral=[ASS]Transcentral.ptm
+50011=Trenches=[ASS]Trenches.ptm
+50012=Vile Inc=[ASS]Vile Inc.ptm
+60000=Circumvent=[FKH]Circumvent.ptm
+60001=Collateral=[FKH]Collateral.ptm
+60002=Conflict Center=[FKH]Conflict Center.ptm
+60003=Degrading=[FKH]Degrading.ptm
+60004=Dual Throne=[FKH]Dual Throne.ptm
+60005=Mercy=[FKH]Mercy.ptm
+60006=Murder Mountain=[FKH]Murder Mountain.ptm
+60007=Ruins=[FKH]Ruins.ptm
+60008=Silent Guillotine=[FKH]Silent Guillotine.ptm
+60010=The Pit=[FKH]The Pit.ptm
+60011=The Pyramid=[FKH]The Pyramid.ptm
+70000=Condemned=[TKH]Condemned.ptm
+70001=Converge=[TKH]Converge.ptm
+70002=Devastation=[TKH]Devastation.ptm
+70003=Elemental=[TKH]Elemental.ptm
+70004=Equidistant=[TKH]Equidistant.ptm
+70005=Frantic=[TKH]Frantic.ptm
+70006=Gallant=[TKH]Gallant.ptm
+70007=Gauntlet=[TKH]Gauntlet.ptm
+70008=Harpoon Crossfire=[TKH]Harpoon Crossfire.ptm
+70009=Jupiter=[TKH]Jupiter.ptm
+70010=King of the Hill=[TKH]King of the Hill.ptm
+70011=Nightmare=[TKH]Nightmare.ptm
+70012=Pentagon=[TKH]Pentagon.ptm
+70013=Sharpshooter=[TKH]Sharpshooter.ptm
+70014=Showdown=[TKH]Showdown.ptm
+70015=United=[TKH]United.ptm
+70016=Vile Street=[TKH]Vile Street.ptm
+80000=Auto Show=[SRV]Auto Show.ptm
+80001=Split Lines=[SRV]Split Lines.ptm
+80002=Stay Alive=[SRV]Stay Alive.ptm
+80003=Survival=[FKH]Survival (SRV).ptm
